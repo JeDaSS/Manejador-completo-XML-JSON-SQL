@@ -1,0 +1,46 @@
+{
+  {
+    "reservas": {
+      "reserva": [
+        {
+          "nombre": "Julio Semper Barcena",
+          "telefono": "616769006",
+          "fechaEvento": "22/4/2023",
+          "tipo": "Banquete",
+          "asistentes": 5,
+          "tipoCocina": "carta",
+          "numeroJornadas": 18,
+          "habitaciones": 4,
+          "tipoMesa": "redonda",
+          "comensalesMesa": 5,
+          "ciudad": "Alcala de henares"
+        },
+        {
+          "nombre": "Marta Lopez Fernandez",
+          "telefono": "616769006",
+          "fechaEvento": "10/8/2024",
+          "tipo": "C�ctel",
+          "asistentes": 50,
+          "tipoCocina": "buffet",
+          "numeroJornadas": 3,
+          "habitaciones": 2,
+          "tipoMesa": "cuadrada",
+          "comensalesMesa": 8,
+          "ciudad": "Madrid"
+        },
+        {
+          "nombre": "Luis Garcia Perez",
+  		  "telefono": "616769006",
+          "fechaEvento": "5/11/2024",
+          "tipo": "Conferencia",
+          "asistentes": 100,
+          "tipoCocina": "servicio a la mesa",
+          "numeroJornadas": 1,
+          "habitaciones": 0,
+          "tipoMesa": "imperial",
+          "comensalesMesa": 10,
+          "ciudad": "Barcelona"
+        }
+      ]
+    }
+  }
